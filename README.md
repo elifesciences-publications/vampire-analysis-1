@@ -1,6 +1,6 @@
 # Analysis notebooks and scripts for the first paper about [vampire](https://github.com/matsengrp/vampire)
 
-This repository makes the plots for the paper _Deep generative models for T cell receptor protein sequences_ by Kristian Davidsen, Branden J Olson, William S DeWitt III, Jean Feng, Elias Harkins, Philip Bradley and Frederick A Matsen IV.
+This repository makes the plots for the paper _Deep generative models for T cell receptor protein sequences_ by Kristian Davidsen, Branden J Olson, William S DeWitt III, Jean Feng, Elias Harkins, Philip Bradley and Frederick A Matsen IV. https://doi.org/10.7554/eLife.46935
 
 To make the figures in the paper, download results files from <https://zenodo.org/record/2619576#.XKElTrfYphE> and place in an `input` directory in the root of this repository. Make an `output` directory as well.
 
